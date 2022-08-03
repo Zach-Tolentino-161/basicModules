@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     description = fh.read()
   
 setuptools.setup(
-    name="robloxFunctions",
+    name="basicModules",
     version="1.0.0",
     author="PandaGamerYT",
     author_email="zachgameryt08@gmail.com",
