@@ -14,5 +14,5 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     license='MIT',
     python_requires='>=3.8',
-    install_requires=['urllib', 'requests']
+    install_requires=['urllib3', 'requests']
 )
