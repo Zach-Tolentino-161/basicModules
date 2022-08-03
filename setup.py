@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
   
 setuptools.setup(
     name="basicModules",
-    version="1.0.1",
+    version="1.0.2",
     author="PandaGamerYT",
     author_email="zachgameryt08@gmail.com",
     packages=["basicModules"],
